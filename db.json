@@ -1,15 +1,6 @@
 {
   "posts": [
     {
-      "firstName": "vishnu",
-      "userName": "anu",
-      "contact": "0769010414",
-      "lastName": "varathan",
-      "gender": "male",
-      "password": "123",
-      "id": 1
-    },
-    {
       "firstName": "Yash",
       "userName": "Yash",
       "contact": "0769010414",
